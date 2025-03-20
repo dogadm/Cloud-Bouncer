@@ -24,7 +24,7 @@ By integrating these principles, organizations can proactively mitigate security
 The following diagram outlines the key components of a **Cloud Security Framework**, providing best practices for securing cloud environments through **identity management, network security, compliance, monitoring, and disaster recovery**.
 
 
-![image alt](https://github.com/dogadm/Cloud-Bouncer/blob/5a36a6bceab314639d0bddf569c130807798e031/Diagram/Cloud_Security_Framework.pdf)
+![image alt](https://github.com/dogadm/Cloud-Bouncer/blob/df210cce67166f520a9b9da56be039d3d4202b19/Diagram/Cloud_Security_Framework_1.jpeg)
 
 📜 **[View Cloud Security Framework]([./Cloud_Security_Framework.pdf](https://github.com/dogadm/Cloud-Bouncer/blob/5a36a6bceab314639d0bddf569c130807798e031/Diagram/Cloud_Security_Framework.pdf))**
 
