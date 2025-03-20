@@ -23,7 +23,7 @@ By integrating these principles, organizations can proactively mitigate security
 ### Cloud Security Framework
 The following diagram outlines the key components of a **Cloud Security Framework**, providing best practices for securing cloud environments through **identity management, network security, compliance, monitoring, and disaster recovery**.
 
-📜 **[View Cloud Security Framework](./Cloud_Security_Framework.pdf)**
+📜 **[View Cloud Security Framework]([./Cloud_Security_Framework.pdf](https://github.com/dogadm/Cloud-Bouncer/blob/5a36a6bceab314639d0bddf569c130807798e031/Diagram/Cloud_Security_Framework.pdf))**
 
 ### AWS Cloud Security Framework
 For organizations deploying security in **AWS**, the following framework highlights **AWS-native security services** mapped to the **Cloud Security Framework**.
