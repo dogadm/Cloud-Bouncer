@@ -634,5 +634,5 @@ Terraform Documentation:
 🚀 **Ready to deploy this in your environment?** 
 Fork this repo or reach out for collaborations!
 
-[![Email](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](/)
+[![Email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=ko-fi&logoColor=white)](/)
 
